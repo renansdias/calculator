@@ -37,7 +37,7 @@ describe('Calculator', function() {
 			var x = 10;
 			var y = 5;	
 
-			expect(calc.subtract(x, y)).to.equal(90);
+			expect(calc.subtract(x, y)).to.equal(5);
 		});
 	});
 });
